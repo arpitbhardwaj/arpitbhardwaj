@@ -15,16 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<details>
-    <summary> <samp>📈 GitHub stats</samp></summary>
-<br/>
-
-![Arpit Bhardwaj GitHub stats](https://github-readme-stats.vercel.app/api?username=arpitbhardwaj&count_private=true&show_icons=true)
-
-</details>
-
-<details>
-    <summary> <samp>📝 Programming Languages</samp></summary>
-<br/>
-
-![Arpit Bhardwaj GitHub stats](https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhardwaj&langs_count=10&layout=compact)
+| <a href="https://github.com/arpitbhardwaj"><img align="center" src="https://github-readme-stats.vercel.app/api?username=arpitbhardwaj&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Arpit's github stats" /></a> | <a href="https://github.com/arpitbhardwaj"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arpitbhardwaj&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
